@@ -1,0 +1,27 @@
+# History files
+.Rhistory
+
+# profile file
+.RProfile
+
+# Example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+
+# RStudio files
+.Rproj.user/
+.Rproj.user
+
+# data files
+Coursera-SwiftKey.zip
+final
+blogs.RData
+news.RData
+twitter.RData
+sample_data.RData
+tdm_unigram.RData
+tdm_bigram.RData
+tdm_trigram.RData
+tri_naiveBayes.RData
